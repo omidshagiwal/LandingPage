@@ -1,0 +1,12 @@
+Contact:
+1. name
+2. email id
+3. phone number
+4. select your package
+5. message
+6. 
+
+change: blog to tutorial
+1. make video of darmaltunt in 3 languages (pashto, english and dari)
+2. write in 3 languages (pashto, english and dari)
+3. 

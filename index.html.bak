@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+	<title>Darmaltun</title>
+	<meta charset="UTF-8">
+	<meta name="description" content="Nissa Photography studio html template">
+	<meta name="keywords" content="industry, html">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<!-- Favicon -->
+	<link href="img/favicon.ico" rel="shortcut icon"/>
+
+	<!-- Google font -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,900&display=swap" rel="stylesheet">
+
+	<!-- Stylesheets -->
+	<link rel="stylesheet" href="css/bootstrap.min.css"/>
+	<link rel="stylesheet" href="css/font-awesome.min.css"/>
+	<link rel="stylesheet" href="css/magnific-popup.css"/>
+	<link rel="stylesheet" href="css/owl.carousel.min.css"/>
+
+	<!-- Main Stylesheets -->
+	<link rel="stylesheet" href="css/style.css"/>
+	
+	<!-- whatsapp icon -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+	<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+</head>
+<body>
+	<!-- Page Preloder -->
+	<div id="preloder">
+		<div class="loader"></div>
+	</div>
+
+	<!-- Main section start -->
+	<div class="main-site-warp">
+		<div class="site-menu-warp">
+			<div class="close-menu">x</div>
+			<!-- Main menu -->
+			<ul class="site-menu">
+				<li><a href="index.html"class="active">Home</a></li>
+				<li><a href="package.html" >Package</a></li>
+				<li><a href="blog.html">Blog</a></li> 
+				<li><a href="contact.html">Contact</a></li> 
+			</ul>
+			<div class="menu-social">
+				<a href="https://www.instagram.com/darmaltun/"><i class="fa fa-instagram"></i></a>
+				<a href="https://www.facebook.com/darmaltun"><i class="fa fa-facebook"></i></a>
+				<a href="https://twitter.com/darmaltun"><i class="fa fa-twitter"></i></a>
+				<a href="https://www.linkedin.com/company/73821089/admin/"><i class="fa fa-linkedin"></i></a>
+				<a href="https://www.youtube.com/channel/UCZUqNLv3RRkFPGe0NA5ZHpw"><i class="fa fa-youtube"></i></a>
+			</div>
+		</div>
+		<header class="header-section">
+			<div class="nav-switch">
+				<i class="fa fa-bars"></i>
+			</div>
+			<div class="header-social">
+				<a href="https://www.instagram.com/darmaltun/"><i class="fa fa-instagram"></i></a>
+				<a href="https://www.facebook.com/darmaltun"><i class="fa fa-facebook"></i></a>
+				<a href="https://twitter.com/darmaltun"><i class="fa fa-twitter"></i></a>
+				<a href="https://www.linkedin.com/company/73821089/admin/"><i class="fa fa-linkedin"></i></a>
+				<a href="https://www.youtube.com/channel/UCZUqNLv3RRkFPGe0NA5ZHpw"><i class="fa fa-youtube"></i></a>
+				
+					<a href="https://www.darmaltun.com"><button class="site-btn sb-dark">Login<img src="img/arrow-righ-3.png" alt=""></button></a>
+ 			</div>
+		</header>
+		<div class="site-content-warp">
+			<!-- Left Side section -->
+			<div class="main-sidebar">
+				<div class="mb-warp">
+					<div class="logo">
+						<div class="logo-inner">
+							<a href="index.html"><img src="img/logo-dark.png" alt="Darmaltun Logo" /></a> 
+						</div>
+					</div> 
+					<a href="index.html" class="site-logo">
+					<p ><strong>Digital Pharmacy</strong></p>
+					</a>
+					
+					<div class="about-info">
+						<h4>Build Your Future, Today!</h4>  
+					</div>
+						<p>Grow your business with minimal staff, least skills, 100% accurate and reliable solutions and most important 24x7 Responsive Assure Care! <br><strong>Use Desktop App and Web App for Online & Offline </STRONG>
+						<strong>To Hundle Pharmacy Management Syste!.</strong></p>
+						<br><br><br><br>
+					<ul class="contact-info"> 
+						<li><a href="#"><i class="fa fa-whatsapp fa-1x" style="color:green"></i> +93 777 940 404</a></li>
+						<li><a href="mailto:contactme@myemail.com">sales@darmaltun.com</a></li> 
+						<li><a href="#">5th Street of Qalai Fatullah, Kabul</a></li> 
+					</ul>
+				<!--	<a href="#" class="site-btn">see my portfolio <img src="img/arrow-right.png" alt=""></a>  -->
+				</div>
+			</div>
+			<!-- Left Side section end -->
+			<!-- Page start -->
+			<div class="page-section about-page"> 
+						
+						<iframe width="1200" height="630" src="https://www.youtube.com/embed/N_1Pc__G4AI" title="YouTube video player" frameborder="0" 
+						allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					 
+					
+					<div class="row m-0 milestones">
+						<div class="col-lg-3 col-sm-6 p-0">
+							<div class="milestone">
+								<h2>i</h2>
+								<div class="milestone-info">
+									<h5>Money-back guarantee</h5>
+									<p><strong>Digital Pharmacy</strong></p>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-3 col-sm-6 p-0">
+							<div class="milestone">
+								<h2>ii</h2>
+								<div class="milestone-info">
+									<h5>Rapid Management</h5>
+									<p><strong>Happy Customers</strong></p>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-3 col-sm-6 p-0">
+							<div class="milestone">
+								<h2>iii</h2>
+								<div class="milestone-info">
+									<h5>System Accuracy</h5>
+									<p><strong>Efficiency & Perfection</strong></p>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-3 col-sm-6 p-0">
+							<div class="milestone">
+								<h2>iv</h2>
+								<div class="milestone-info">
+									<h5>Cloud Backup</h5>
+									<p><strong>Thanks to Darmaltun</strong></p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- Page end -->
+		</div>
+	</div>
+	<!-- Main section end -->
+	
+	<!--====== Javascripts & Jquery ======-->
+	<script src="js/jquery-3.2.1.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/owl.carousel.min.js"></script>
+	<script src="js/jquery.nicescroll.min.js"></script>
+	<script src="js/circle-progress.min.js"></script>
+	<script src="js/jquery.magnific-popup.min.js"></script>
+	<script src="js/main.js"></script>
+
+	</body>
+</html>
